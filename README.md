@@ -1,4 +1,4 @@
-👋 Hi, I’m @Khadibia
+👋 Hi, I’m Anthony
 👀 I’m interested in Data Science
 🌱 I’m currently learning Machine Learning
 💞️ I’m looking to collaborate on projects that will help me grow!
